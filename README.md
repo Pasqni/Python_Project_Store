@@ -1,6 +1,6 @@
 ## Warehouse Management Software 
 
-This project consists in realizing a software for the management of a market warehouse. The software has the following features:
+This project consists in realizing a TUI software for the management of a market warehouse. The software has the following features:
 
 - register new products, with name, quantity, sale price and purchase price;
 - list all the available products;
